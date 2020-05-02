@@ -4,9 +4,9 @@
 # sudo wget -O - https://raw.githubusercontent.com/chamilton6983/RasPiSetup/master/RasPiSetup.sh | bash
 
 #Updates
-echo "-----Updating and Upgrading-----"
-apt-get update
-apt-get upgrade
+#echo "-----Updating and Upgrading-----"
+#apt-get update
+#apt-get upgrade
 
 #Change Hostname
 echo "-----Changing Hostname-----"
