@@ -12,10 +12,6 @@ apt-get upgrade
 echo "Changing the root password"
 passwd root
 
-#Switch to root
-echo "Switching to root account"
-su
-
 #Change Hostname
 echo "Changing hostname"
 read -p "Enter New Hostname: " hostname	#Ask the user for the new hostname
