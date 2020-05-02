@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# To run this script, use the following command at a terminal prompt:
+# wget -O - https://raw.githubusercontent.com/chamilton6983/RasPiSetup/master/RasPiSetup.sh | bash
+
 #Updates
 echo "Updating and Upgrading"
 sudo apt-get update
